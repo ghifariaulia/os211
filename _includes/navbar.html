@@ -8,27 +8,22 @@
     margin-bottom: 5px;
   }
 
-  .navbar ul li a {
+  .navbar div a {
     display: block;
     padding: 8px;
     text-decoration: none;
-    color: #222222;
+    color: darkblue;
   }
-
-  .navbar ul li a:hover {
-    background:       blue;
-    color:            #CCCCCC;
-  }
-  .navbar ul li a:visited {
-    color: #222222;
+  
+  .navbar div a:hover {
+    background-color: #c4c4c4;
+    text-decoration: underline;
   }
 </style>
-  
-<nav class="navbar">
-    <ul>
-      <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
-      <li class='listitem'><a href='{{ site.baseurl }}/W01/'>W01</a></li>
-      <li class='listitem'><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></li>
-      <li class='listitem'><a href='{{ site.urlgithub }}'>GitHub</a></li>
-    </ul>
-  </nav>
+
+<div class="navbar">
+  <div><a href='{{ site.baseurl }}/'>HOME</a></div>
+  <div><a href='{{ site.baseurl }}/W01/'>W01</a></div>
+  <div><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></div>
+  <div><a href='{{ site.urlgithub }}'>GitHub</a></div>
+</div>
