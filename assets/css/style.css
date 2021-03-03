@@ -21,17 +21,18 @@
 .right {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
   margin-left: 1.5rem;
 }
 
 .right1 {
   font-size: 2.2rem;
+  padding-left: 30px;
   font-weight: 700;
 }
 
 .right2 {
   font-size: 1.5rem;
+  padding-left: 30px;
   font-weight: 500;
 }
 
