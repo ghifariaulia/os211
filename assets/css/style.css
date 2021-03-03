@@ -9,7 +9,6 @@
 .row {
   display: flex;
   background-color: #636c6e;
-  justify-content: space-evenly;
   padding: 1rem 3rem 1rem 1rem;
 }
 
