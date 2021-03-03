@@ -1,0 +1,40 @@
+.plainclass {
+  color: black;
+  background-color: #394F55;
+  font-family: Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  background-color: #8CA7B3;
+  justify-content: space-evenly;
+  padding: 1rem 3rem 1rem 1rem;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 1.5rem;
+}
+
+.right1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.right2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.content {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
