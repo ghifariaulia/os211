@@ -46,6 +46,10 @@
   font-weight: 400;
 }
 
-.markdown-block a {
-  color:blue !important;
+@media screen and (max-width:768px) {
+
+  .container {
+    min-width: 100%;
+    max-width: 100%;
+  }
 }
