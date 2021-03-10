@@ -10,4 +10,5 @@ ZCZC W00 50 L26 Movie: relax, etc.
 ZCZC W01 50 L04 Modify Github Page
 ZCZC W01 70 L11 Working on W01
 ZCZC W01 70 L17 Finalizing W01 Top 10 List
-ZCZC W02 15 L12 Assignment #2
+ZCZC W02 15 L13 Generate GnuPG Key Pair
+ZCZC W02 20 L15 Export Public Key 
