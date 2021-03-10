@@ -14,3 +14,4 @@ ZCZC W02 15 L13 Generate GnuPG Key Pair
 ZCZC W02 20 L15 Export Public Key
 ZCZC W02 20 L16 add myrank.txt
 ZCZC W02 20 L18 Copy myscript.sh from cbkadal 
+ZCZC W02 15 L20 Make SHA256SUM
