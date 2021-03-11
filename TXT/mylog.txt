@@ -16,3 +16,4 @@ ZCZC W02 20 L16 add myrank.txt
 ZCZC W02 20 L18 Copy myscript.sh from cbkadal 
 ZCZC W02 15 L20 Make SHA256SUM
 ZCZC W02 80 L17 Finalizing W02 Top 10 List
+ZCZC W02 40 L05 GSGS related
