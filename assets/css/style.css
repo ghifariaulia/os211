@@ -42,6 +42,13 @@
   text-decoration: none;
 }
 
+.content a {
+  color:whitesmoke;
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+
 .footer {
   font-size: 1.2rem;
   font-weight: 400;
