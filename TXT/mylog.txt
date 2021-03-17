@@ -24,3 +24,4 @@ ZCZC W03 30 L17 tarballed myW03.tar.bz2.asc
 ZCZC W03 30 L18 update myscript.sh
 ZCZC W03 10 L19 Make SHA256SUM
 ZCZC W03 90 L05 GSGS related
+ZCZC W03 15 L14 Review last week top 10 list
