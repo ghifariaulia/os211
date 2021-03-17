@@ -19,3 +19,8 @@ ZCZC W02 80 L17 Finalizing W02 Top 10 List
 ZCZC W02 40 L05 GSGS related
 ZCZC W02 30 L23 Discord: Pop Quiz
 ZCZC W02 30 L05 GSGS related
+ZCZC W03 10 L13 check .bash_aliases
+ZCZC W03 30 L17 tarballed myW03.tar.bz2.asc
+ZCZC W03 30 L18 update myscript.sh
+ZCZC W03 10 L19 Make SHA256SUM
+ZCZC W03 90 L05 GSGS related
