@@ -9,13 +9,13 @@ ZCZC W00 50 L22 Youtube: study, etc.
 ZCZC W00 50 L26 Movie: relax, etc.
 ZCZC W01 50 L04 Modify Github Page
 ZCZC W01 70 L11 Working on W01
-ZCZC W01 70 L17 Finalizing W01 Top 10 List
+ZCZC W01 70 L17 Finalize W01 Top 10 List
 ZCZC W02 15 L13 Generate GnuPG Key Pair
 ZCZC W02 20 L15 Export Public Key
 ZCZC W02 20 L16 add myrank.txt
 ZCZC W02 20 L18 Copy myscript.sh from cbkadal 
 ZCZC W02 15 L20 Make SHA256SUM
-ZCZC W02 80 L17 Finalizing W02 Top 10 List
+ZCZC W02 80 L17 Finalize W02 Top 10 List
 ZCZC W02 40 L05 GSGS related
 ZCZC W02 30 L23 Discord: Pop Quiz
 ZCZC W02 30 L05 GSGS related
@@ -25,3 +25,4 @@ ZCZC W03 30 L18 update myscript.sh
 ZCZC W03 10 L19 Make SHA256SUM
 ZCZC W03 90 L05 GSGS related
 ZCZC W03 15 L14 Review last week top 10 list
+ZCZC W03 90 L15 Finalize W03 Top 10 List
