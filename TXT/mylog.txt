@@ -26,3 +26,6 @@ ZCZC W03 10 L19 Make SHA256SUM
 ZCZC W03 90 L05 GSGS related
 ZCZC W03 15 L14 Review last week top 10 list
 ZCZC W03 90 L15 Finalize W03 Top 10 List
+ZCZC W03 30 L23 Discord: Pop Quiz
+ZCZC W04 60 L16 tarballed myW04.tar.bz2.asc
+ZCZC W04 10 L18 Make SHA256SUM
