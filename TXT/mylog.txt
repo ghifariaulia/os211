@@ -32,3 +32,8 @@ ZCZC W04 10 L18 Make SHA256SUM
 ZCZC W04 60 L05 GSGS Related
 ZCZC W04 30 L13 Review last week top 10 list
 ZCZC W04 60 L14 Finalize W04 Top 10 List
+ZCZC W05 45 L14 tarballed myW05.tar.bz2.asc
+ZCZC W05 15 L16 Make SHA256SUM
+ZCZC W05 60 L12 Review last week top 10 list
+ZCZC W05 120 L13 Finalize W05 Top 10 List
+ZCZC W05 10 L15 Update mylog.txt
