@@ -43,3 +43,4 @@ ZCZC W06 15 L16 Make SHA256SUM
 ZCZC W06 60 L05 GSGS Related
 ZCZC W06 60 L01 Read OSC10 chapter 03 and 04
 ZCZC W06 10 L15 Update mylog.txt
+ZCZC W06 120 L13 Finalize W06 Top 10 List
