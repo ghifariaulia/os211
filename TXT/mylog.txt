@@ -48,3 +48,4 @@ ZCZC W07 60 L14 Assignment #4
 ZCZC W07 45 L12 Review last week top 10 list
 ZCZC W07 15 L16 Make SHA256SUM
 ZCZC W07 10 L15 Update mylog.txt
+ZCZC W07 120 L13 Finalize W07 top 10 list
