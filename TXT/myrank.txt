@@ -17,3 +17,6 @@ ZCZC W05 hanifahaputri
 ZCZC W06 hanifaudah
 ZCZC W06 gilangcy
 ZCZC W06 hanifanggawi
+ZCZC W07 gilangcy
+ZCZC W07 hanifahaputri
+ZCZC W07 hanifaudah
